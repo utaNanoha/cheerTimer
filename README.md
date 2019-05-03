@@ -1,1 +1,1 @@
-# CheerTimer
+# cheerTimer
